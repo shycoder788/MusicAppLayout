@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">music</string>
+    <string name="lyrics">lyrics</string>
+    <string name="_1_37">1:37</string>
+    <string name="_4_14">4:14</string>
+    <string name="current_song_title">Current Song Title</string>
+    <string name="artist_name">Artist name</string>
+    <string name="now_playing">now playing</string>
+    <string name="nabeel">Qarz</string>
+    <string name="nabeel_akbar">Nabeel Akbar</string>
+</resources>
